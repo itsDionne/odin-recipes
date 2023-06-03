@@ -1,0 +1,19 @@
+body {
+    font-family: Monospace, monaco
+    color: black;
+}
+
+button {
+    color: black;
+    background-color:yellow;
+    padding: 20px;
+    margin-bottom: 5px;
+    margin-left: 325px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
